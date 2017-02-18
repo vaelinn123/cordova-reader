@@ -1,0 +1,11 @@
+/node_modules
+node_modules
+npm-debug.log*
+*.log
+logs
+pids
+*.pid
+*.seed
+/.npm
+reader/platforms/*
+reader/plugins/*
